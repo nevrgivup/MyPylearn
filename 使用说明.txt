@@ -1,0 +1,14 @@
+1.打开host_code_initial.exe
+运行后输入要用的密码，并记住它。
+
+2.把产生的三个pw.bak, pw.dat, pw.dir文件拷贝到password_saving文件夹目录下
+
+3.运行password_saving.exe按指示进行操作：
+    <1>--------list names-----列出索引
+    <2>--------save-----存入
+    <3>--------read-----读取指定名称
+    <4>--------delete---删除
+    <5>--------quicksave--命令行快速存入的方式，格式:name,number, pw_login, pw_trade
+    <exit>-----exit-----退出
+
+4.命令行运行quicksave，按3<4>的提示。
